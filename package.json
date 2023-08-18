@@ -1,18 +1,18 @@
 {
-  "name": "vue2-element-pro",
+  "name": "@yj_lin/vue2-element-pro",
   "version": "0.0.6",
   "private": false,
   "files": [
     "packages",
     "lib"
   ],
-  "main": "lib/@yj_lin/vue2-element-pro.common.js",
+  "main": "lib/vue2-element-pro.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build:lib": "vue-cli-service build --target lib --name @yj_lin/vue2-element-pro packages/index.js --dest lib",
-    "release": "bumpp --commit --push --tag && npm publish"
+    "build:lib": "vue-cli-service build --target lib --name vue2-element-pro packages/index.js --dest lib",
+    "release": "bumpp --commit --push --tag && npm publish --access=public"
   },
   "dependencies": {
     "core-js": "^3.8.3",
