@@ -1,17 +1,13 @@
 <template>
   <div class="app">
-    <PreComponents :columns="columns" :fetchFun="fetchFun">
+    <ProTable :columns="columns" :fetchFun="fetchFun">
 
-    </PreComponents>
+    </ProTable>
   </div>
 </template>
 
 <script>
-import PreComponents from './components/PreComponents';
 export default {
-  components: {
-    PreComponents
-  },
   data() {
     return {
       columns: [

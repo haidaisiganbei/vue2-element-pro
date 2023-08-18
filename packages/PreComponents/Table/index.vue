@@ -40,6 +40,7 @@ import Pagination from "../Pagination/index.vue";
 import QueryFrom from "../QueryForm/index.vue";
 
 export default {
+  name: "ProTable",
   components: {
     QueryFrom,
     Pagination,

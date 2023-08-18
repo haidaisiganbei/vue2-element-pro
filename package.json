@@ -15,7 +15,7 @@
     "release": "bumpp --commit --push --tag && npm publish --access=public"
   },
   "dependencies": {
-    "@yj_lin/vue2-element-pro": "^0.0.9",
+    "@yj_lin/vue2-element-pro": "^0.0.10",
     "core-js": "^3.8.3",
     "element-ui": "^2.15.13",
     "lodash": "^4.17.21",

@@ -1793,6 +1793,53 @@
   resolved "https://registry.npmmirror.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
+"@yj_lin/vue2-element-pro@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@yj_lin/vue2-element-pro/-/vue2-element-pro-0.0.10.tgz#0848684308d92327006bf84377efb41c7e292a12"
+  integrity sha512-dVPuNsHxJAoV16D+PnOQZto1HSXAvSfdXCZfuzIaPsOD4wXV0Fy3aOcOQzD5uDjEplFiuLX+Vesr17c8TZj+gQ==
+  dependencies:
+    "@yj_lin/vue2-element-pro" "^0.0.9"
+    core-js "^3.8.3"
+    element-ui "^2.15.13"
+    lodash "^4.17.21"
+    lodash-es "^4.17.21"
+    vue "^2.6.14"
+
+"@yj_lin/vue2-element-pro@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@yj_lin/vue2-element-pro/-/vue2-element-pro-0.0.7.tgz#f0b1a289dd597bbfb039050bd6a47ef630ee9fe4"
+  integrity sha512-ehYRvV0LKY3EuRWlH5wolkE+tQYItNXvT6OxHSkmS3hSmhg84wp04jVUaSwlaiti96M2UmiVk5qchX+Sx7AQvw==
+  dependencies:
+    core-js "^3.8.3"
+    element-ui "^2.15.13"
+    lodash "^4.17.21"
+    lodash-es "^4.17.21"
+    vue "^2.6.14"
+
+"@yj_lin/vue2-element-pro@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@yj_lin/vue2-element-pro/-/vue2-element-pro-0.0.8.tgz#c711ebe58c55ffb70e846d3656588d7dfc5731a8"
+  integrity sha512-64sCJYkDvQ1PljTjvrfmrspN5u7tg+m5Z662ei5HyYla3GQ8G2gNJd5aJFgjc0G8W9DB3raet9vo3tgJG9xLCg==
+  dependencies:
+    "@yj_lin/vue2-element-pro" "^0.0.7"
+    core-js "^3.8.3"
+    element-ui "^2.15.13"
+    lodash "^4.17.21"
+    lodash-es "^4.17.21"
+    vue "^2.6.14"
+
+"@yj_lin/vue2-element-pro@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@yj_lin/vue2-element-pro/-/vue2-element-pro-0.0.9.tgz#d3d984c286b609b874dd1c86ed42c0aa8912d868"
+  integrity sha512-kjsYFHvIu0dBqKOtD5eGczdj34lRA1Nsm8ZpV+1Db+RZvGQbA0vWDNU0RCH7x6hehJeBao0J1J6Pxt1DhA6ugA==
+  dependencies:
+    "@yj_lin/vue2-element-pro" "^0.0.8"
+    core-js "^3.8.3"
+    element-ui "^2.15.13"
+    lodash "^4.17.21"
+    lodash-es "^4.17.21"
+    vue "^2.6.14"
+
 accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.8:
   version "1.3.8"
   resolved "https://registry.npmmirror.com/accepts/-/accepts-1.3.8.tgz#0bf0be125b67014adcb0b0921e62db7bffe16b2e"
