@@ -1,6 +1,6 @@
 {
   "name": "@yj_lin/vue2-element-pro",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": false,
   "files": [
     "packages",
@@ -15,6 +15,7 @@
     "release": "bumpp --commit --push --tag && npm publish --access=public"
   },
   "dependencies": {
+    "@yj_lin/vue2-element-pro": "^0.0.7",
     "core-js": "^3.8.3",
     "element-ui": "^2.15.13",
     "lodash": "^4.17.21",
